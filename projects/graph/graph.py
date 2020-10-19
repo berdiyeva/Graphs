@@ -33,7 +33,7 @@ class Graph:
         Print each vertex in breadth-first order
         beginning from starting_vertex.
         """
-          # --setup phase-- 1)make a queue; 2)make a visited set;
+        # --setup phase-- 1)make a queue; 2)make a visited set;
         # Create an empty Quene and add starting vertex to it 
         # This will keep track of all next-to-visit-vertices
         # Queue is first in first out
